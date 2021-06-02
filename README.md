@@ -16,3 +16,7 @@ Until now, it does:
 
 ----------
 To make the NekoPy works it necessary Click (libraries)
+
+----------
+<h3>Image Attribution:<h3>
+  <p> Neko Cat: Free license via Pexels.<p>

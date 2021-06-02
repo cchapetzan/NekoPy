@@ -47,7 +47,8 @@ Until now, it does:
    </cipboard-copy>
   </div>
 </div>
-  <li> Do not forget to put your credentials and the data you want to track!</li>
+  <li> Don't forget to put your credentials and the data you want to track!</li>
+  <li> Don't forget to import your <code>constants</code> into your <code>service\file.py</code>
  </ol>
      
 #Image Attribution:
